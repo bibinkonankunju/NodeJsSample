@@ -1,0 +1,23 @@
+{
+  "name": "nodesample1",
+  "version": "1.0.0",
+  "description": "It is a sample application\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[Dnode js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibinkonankunju/NodeJsSample.git"
+  },
+  "keywords": [
+    "nodejs",
+    "sample"
+  ],
+  "author": "BIBIN K ONANKUNJU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibinkonankunju/NodeJsSample/issues"
+  },
+  "homepage": "https://github.com/bibinkonankunju/NodeJsSample#readme"
+}
